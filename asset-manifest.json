@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9cff4684.css",
+    "main.js": "/static/js/main.4d480117.js",
+    "static/media/corporate_finance.png": "/static/media/corporate_finance.d738700bf51ed9d2b7bc.png",
+    "static/media/research_and_due_diligence.png": "/static/media/research_and_due_diligence.5446c3d13578fa9029be.png",
+    "static/media/asset_management.png": "/static/media/asset_management.20874fd020587d64a8ff.png",
+    "static/media/investment_advisory.png": "/static/media/investment_advisory.e2dedd539c8d70eb0ab8.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/ASM1.jpg": "/static/media/ASM1.d12456f21a2aa85cfb4f.jpg",
+    "static/media/ASM2.jpg": "/static/media/ASM2.eafaa3d84873bdcaeb95.jpg",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/ASM3.jpg": "/static/media/ASM3.e164edd8d1565a73fdd2.jpg",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/markets_logo.png": "/static/media/markets_logo.f5afddd5581ae11ab89e.png",
+    "static/media/values_logo.png": "/static/media/values_logo.6e7475dad66fb62809af.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/effah.jpg": "/static/media/effah.b42a778145e8f3c1faf0.jpg",
+    "static/media/logo2.png": "/static/media/logo2.189f27f59f3c97991577.png",
+    "static/media/contact-us-Image.png": "/static/media/contact-us-Image.71d6e25eadf8ed9b75aa.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/index.html",
+    "main.9cff4684.css.map": "/static/css/main.9cff4684.css.map",
+    "main.4d480117.js.map": "/static/js/main.4d480117.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cff4684.css",
+    "static/js/main.4d480117.js"
+  ]
+}
